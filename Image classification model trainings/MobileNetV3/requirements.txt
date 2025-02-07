@@ -1,0 +1,10 @@
+Import the following:
+
+torch
+torchvision
+pillow
+pandas
+tqdm
+opencv-python
+matplotlib
+scikit-learn
