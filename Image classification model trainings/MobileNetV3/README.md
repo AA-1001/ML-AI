@@ -16,4 +16,4 @@
 
 ### The predictions for this model:  
 
-![image-1]([https://github.com/user-attachments/assets/755afb86-3fb5-4898-91cb-4190068b6c0e](https://github.com/AA-1001/ML-AI/blob/main/Image%20classification%20model%20trainings/MobileNetV3/Images/image-1.png))
+![image-1](https://github.com/user-attachments/assets/3caaa33c-0e01-49a0-9056-f719be5a5c74)
