@@ -9,11 +9,11 @@
 
 ### The structure for the VNet2D is as follows:
 
-![VNetDiagram](https://github.com/user-attachments/assets/011c07cf-89fb-4fe9-8d8a-04176a9c0e6e)
+![VNetDiagram](https://github.com/user-attachments/assets/92450c28-8887-4aed-a42f-922edc2e9724)
 
 
 
 
 ### The predictions for this model:  
 
-![prediction](https://github.com/user-attachments/assets/30eb3fad-0c1d-4725-8f6a-99e208d11dad)
+![prediction](https://github.com/user-attachments/assets/d7f19aca-74a0-4950-b9d3-52f6714c3f9b)
