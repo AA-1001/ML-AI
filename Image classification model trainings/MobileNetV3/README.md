@@ -9,7 +9,7 @@
 
 ### The structure for the MobileNetV3 is as follows:
 
-![The-MobileNetV3-architecture-and-its-core-components]([https://github.com/user-attachments/assets/a1698ec1-05c8-43a4-af2a-e215d0a5f3e4](https://github.com/AA-1001/ML-AI/blob/main/Image%20classification%20model%20trainings/MobileNetV3/Images/The-MobileNetV3-architecture-and-its-core-components.png))
+![The-MobileNetV3-architecture-and-its-core-components](https://github.com/user-attachments/assets/d5246aec-660d-4b99-9802-3abdea654d15)
 
 
 
